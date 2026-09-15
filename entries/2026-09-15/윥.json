@@ -15,10 +15,14 @@
     "medication": false,
     "outing": true,
     "cleaning": false,
-    "delivery": false
+    "delivery": false,
+    "학교": true,
+    "공부": false,
+    "게임": false,
+    "데이트": false
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-15T05:46:33.433Z",
-  "updatedAt": "2026-09-15T05:49:41.961Z"
+  "updatedAt": "2026-09-15T05:52:00.484Z"
 }
