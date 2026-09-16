@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-16",
+  "author": "윥",
+  "moodTags": [
+    "#개피곤",
+    "#존나피곤",
+    "#피곤",
+    "#힘들어"
+  ],
+  "content": "2026년 09월 16일\n날씨: 맑음 10-28℃ (냉장보관->해동 과 같은 날씨)\n잠: 01:00-07:50\n\n잠을 적게 잔 건 아닌데 그냥 몸이 피곤하고\n해야할 게 너무 많아\n과제 개많아 하기싫어\n어제 남자친구랑 통화하다가 화내고 걍 끊었긔\n오늘 맛있는거 먹고 싶은데 레포트 써야해서 집에 못 갈 수도 있을 것 같아",
+  "images": [],
+  "checklist": {
+    "sleepHours": 7,
+    "medication": true,
+    "outing": false,
+    "cleaning": false,
+    "delivery": false,
+    "학교": true,
+    "공부": false,
+    "게임": false,
+    "데이트": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-16T09:02:03.055Z",
+  "updatedAt": "2026-09-16T09:02:03.716Z"
+}
